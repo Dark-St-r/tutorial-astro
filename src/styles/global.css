@@ -1,0 +1,21 @@
+html {
+    background-color: #f1f5f9; /* An off-white background color.*/
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0 auto; /* Center the content */
+    width: 100%; /* Take up the full width of the screen */
+    max-width: 80ch; /* Limit the width of the content */
+    padding: 1rem; /* Add some space around the content */
+    line-height: 1.5; /* Specify the line height */
+}
+
+* {
+    box-sizing: border-box; /* Include padding and border in all elements' total width and height */
+}
+
+h1 {
+    margin: 1rem 0; /* Add some space around the heading */
+    font-size: 2.5rem;
+}
